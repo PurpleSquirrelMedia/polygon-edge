@@ -1,5 +1,4 @@
 # cloud.google.com/go v0.100.2
-## explicit
 cloud.google.com/go
 # cloud.google.com/go/compute v1.5.0
 cloud.google.com/go/compute/metadata
@@ -552,7 +551,7 @@ github.com/ryanuber/go-glob
 github.com/spacemonkeygo/spacelog
 # github.com/spaolacci/murmur3 v1.1.0
 github.com/spaolacci/murmur3
-# github.com/spf13/cobra v1.4.0
+# github.com/spf13/cobra v1.5.0
 ## explicit
 github.com/spf13/cobra
 # github.com/spf13/pflag v1.0.5
