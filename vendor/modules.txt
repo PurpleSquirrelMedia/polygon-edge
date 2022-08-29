@@ -1,5 +1,4 @@
 # cloud.google.com/go v0.100.2
-## explicit
 cloud.google.com/go
 # cloud.google.com/go/compute v1.5.0
 cloud.google.com/go/compute/metadata
@@ -746,7 +745,7 @@ google.golang.org/genproto/googleapis/rpc/code
 google.golang.org/genproto/googleapis/rpc/errdetails
 google.golang.org/genproto/googleapis/rpc/status
 google.golang.org/genproto/googleapis/type/expr
-# google.golang.org/grpc v1.46.2
+# google.golang.org/grpc v1.49.0
 ## explicit
 google.golang.org/grpc
 google.golang.org/grpc/attributes
